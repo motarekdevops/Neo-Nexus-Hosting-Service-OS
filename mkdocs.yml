@@ -1,0 +1,5 @@
+site_name: NEO OS
+theme:
+  name: material
+nav:
+  - Home: README.md
